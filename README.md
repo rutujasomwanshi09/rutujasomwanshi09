@@ -24,6 +24,11 @@
 
 ---
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rutujasomwanshi09&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=rutujasomwanshi09&theme=tokyonight)
 
 ## 📚 Currently Learning
 
