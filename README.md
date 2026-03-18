@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Rutuja Somwanshi
 
-<!--
-**rutujasomwanshi09/rutujasomwanshi09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech CSE CFIS Student  
+💻 Passionate about Cyber Security, Networking & Cloud  
+🚀 Currently learning Linux, AWS & CCNA  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- 💻 HTML, CSS, JavaScript  
+- 🐍 Python  
+- 🐧 Red Hat Linux  
+- 🌐 Networking (Cisco Packet Tracer, CCNA Basics)  
+
+---
+
+
+## 📚 Currently Learning
+
+- ☁️ AWS Cloud  
+- 🔐 Cyber Security  
+- 🧠 Data Structures & Algorithms
+- 🐧 Kali Linux
+
+---
+
+## 📫 Connect with Me
+
+- GitHub: https://github.com/rutujasomwanshi09 
+
+---
+
+⭐ Keep Learning | Keep Building 🚀
+
