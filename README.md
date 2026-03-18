@@ -48,7 +48,11 @@
 ---
 
 ## 🌐 Connect With Me
-- 💻 GitHub: https://github.com/rutujasomwanshi09
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/rutujasomwanshi09)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/rutuja-somwanshi)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:rutujasomwanshi09@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter)](https://twitter.com/RutuSomwanshi09)
+[![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram)](https://instagram.com/smiley_3881)
 
 ---
 
