@@ -30,6 +30,12 @@
 
 ---
 
+## 🏆 Certifications
+
+- ISC2 Certified in Cybersecurity (CC) - Domain 1 Completed
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
