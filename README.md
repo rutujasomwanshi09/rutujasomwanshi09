@@ -30,20 +30,24 @@
 
 ---
 
-## 🏆 Certifications
-
-- ISC2 Certified in Cybersecurity (CC) - Domain 1 Completed
-
----
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rutujasomwanshi09&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com/?user=rutujasomwanshi09&theme=tokyonight" />
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=rutujasomwanshi09&show_icons=true&theme=radical" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutujasomwanshi09&layout=compact&theme=radical" height="180"/>
+
+</div>
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=rutujasomwanshi09" height="180"/>
+
+</div>
 
 ## 🧠 Currently Learning
 - ☁️ AWS Cloud
