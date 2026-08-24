@@ -4,7 +4,7 @@
 ---
 
 ## 👩‍💻 About Me
-- 🎓 BTech CSE (CFIS)
+- 🎓 BTech CSE Specialisation in Cyber Forensics and Information Security
 - 🔐 Passionate about Cyber Security & Ethical Hacking
 - 🌐 Learning Networking (CCNA) & Cloud (AWS)
 - 🐧 Exploring Linux (Red Hat & Kali Linux)
@@ -35,9 +35,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rutujasomwanshi09&show_icons=true&theme=radical" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rutujasomwanshi09&show_icons=true&hide_border=true&bg_color=0D47A1&title_color=FFFFFF&text_color=E3F2FD&icon_color=90CAF9&include_all_commits=true&count_private=true" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutujasomwanshi09&layout=compact&theme=radical" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutujasomwanshi09&layout=compact&hide_border=true&bg_color=0D47A1&title_color=FFFFFF&text_color=E3F2FD&icon_color=90CAF9" height="180"/>
 
 </div>
 
@@ -45,7 +45,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=rutujasomwanshi09" height="180"/>
+<img src="https://streak-stats.demolab.com/?user=rutujasomwanshi09E&hide_border=true&background=0D47A1&ring=64B5F6&fire=FFB74D&currStreakLabel=FFFFFF&sideLabels=E3F2FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=90CAF9" height="180"/>
 
 </div>
 
